@@ -1,0 +1,22 @@
+[
+    {
+        "email": "user@gmail.com",
+        "password": "$123",
+        "role": "guest"
+    },
+    {
+        "email": "owner@gmail.com",
+        "password": "123",
+        "role": "owner"
+    },
+    {
+        "email": "admin@gmail.com",
+        "password": "$2y$10$MPzy\/p52OYwpNbcV8nNS.uGMdCHYp9tjXSNQw0gI2T5v76mBMoczC",
+        "role": "user"
+    },
+    {
+        "email": "tes@gmail.com",
+        "password": "$2y$10$FJGyG9qxz7a1d.01bfCckuPyak\/rIyIfWA27iuSJTrh9H5rGHlhhy",
+        "role": "user"
+    }
+]
